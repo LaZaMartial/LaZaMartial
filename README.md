@@ -18,9 +18,9 @@
 
 ---
 
+<h2 align="center">Who I am ✌ :</h2>
 
-## Who I am ✌:
-- Malagasy here 🎊
+- Malagasy boy 🎊
 
 - Actually studying computer engineering 😋 and starting to like it 😁
 
@@ -33,6 +33,21 @@
 
 ---
 
+<style>
+  .column {
+    float: left;
+    width: 50%;
+    padding: 10px;
+  }
+  .clearfix::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
+</style>
 
-## My stats 📜:
+<h2 align="center">My stats 📜 :</h2>
 
+<div align="center">
+<img src="http://github-readme-streak-stats.herokuapp.com?user=LaZaMartial&theme=dark&hide_border=true&border_radius=20&fire=FF2222&ring=008B0F&sideLabels=008B0F&currStreakLabel=FF2222)](https://git.io/streak-stats)">
+</p>
