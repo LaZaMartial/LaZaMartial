@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" width="100"/>
   
-  <p align="center">ANDRIHERTSE Ilazasoa Martial</p>
+  <p align="center">Hey hey hey🎊</p>
   
   <div id="badges">
     <p align="center">
@@ -15,5 +15,24 @@
   </div>
 </div>
 
-<div>
-</div>
+
+---
+
+
+## Who I am ✌:
+- Malagasy here 🎊
+
+- Actually studying computer engineering 😋 and starting to like it 😁
+
+- I love listening to music 🎧 🎼
+
+- Watching series an movies too 🎬
+
+- And last not the least : I love playing basket-ball 🏀
+
+
+---
+
+
+## My stats 📜:
+
